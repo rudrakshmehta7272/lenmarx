@@ -1,0 +1,21 @@
+go: inconsistent vendoring in /workspace:
+	github.com/cometbft/cometbft@v0.38.17: is explicitly required in go.mod, but not marked as explicit in vendor/modules.txt
+	github.com/cosmos/cosmos-sdk@v0.50.0: is explicitly required in go.mod, but not marked as explicit in vendor/modules.txt
+	github.com/spf13/cobra@v1.8.1: is explicitly required in go.mod, but not marked as explicit in vendor/modules.txt
+	cosmossdk.io/x/auth: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/authz: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/bank: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/capability: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/distribution: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/evidence: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/feegrant: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/gov: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/mint: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/params: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/slashing: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/staking: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+	cosmossdk.io/x/upgrade: is replaced in go.mod, but not marked as replaced in vendor/modules.txt
+
+	To ignore the vendor directory, use -mod=readonly or -mod=mod.
+	To sync the vendor directory, run:
+		go mod vendor

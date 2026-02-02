@@ -1,0 +1,365 @@
+go version go1.22.12 linux/amd64
+https://proxy.golang.org,direct
+go: downloading github.com/cosmos/cosmos-sdk v0.50.0
+go: downloading cosmossdk.io/x/auth v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading cosmossdk.io/core v0.12.0
+go: downloading cosmossdk.io/log v1.2.1
+go: downloading cosmossdk.io/store v1.0.0
+go: downloading cosmossdk.io/x/bank v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading cosmossdk.io/x/gov v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading cosmossdk.io/x/staking v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading github.com/cometbft/cometbft v0.38.17
+go: downloading github.com/cosmos/cosmos-db v1.0.0
+go: downloading cosmossdk.io/math v1.2.0
+go: downloading github.com/stretchr/testify v1.10.0
+go: downloading github.com/spf13/cobra v1.8.1
+go: downloading cosmossdk.io/depinject v1.0.0-alpha.4
+go: downloading google.golang.org/grpc v1.70.0
+go: downloading google.golang.org/protobuf v1.36.4
+go: downloading github.com/pkg/errors v0.9.1
+go: downloading github.com/rs/zerolog v1.31.0
+go: downloading gotest.tools/v3 v3.5.1
+go: downloading cosmossdk.io/errors v1.0.0
+go: downloading cosmossdk.io/x/tx v0.12.0
+go: downloading gotest.tools v2.2.0+incompatible
+go: downloading github.com/cosmos/gogoproto v1.7.0
+go: downloading github.com/tendermint/go-amino v0.16.0
+go: downloading cosmossdk.io/collections v0.4.0
+go: downloading github.com/cosmos/cosmos-proto v1.0.0-beta.3
+go: downloading sigs.k8s.io/yaml v1.4.0
+go: downloading cosmossdk.io/api v0.7.3-0.20231029200940-6af7f30bfd54
+go: downloading github.com/google/go-cmp v0.6.0
+go: downloading github.com/grpc-ecosystem/grpc-gateway v1.16.0
+go: downloading golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56
+go: downloading github.com/golang/mock v1.6.0
+go: downloading github.com/cosmos/ics23/go v0.10.0
+go: downloading github.com/cockroachdb/errors v1.11.3
+go: downloading github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
+go: downloading github.com/spf13/cast v1.6.0
+go: downloading github.com/spf13/viper v1.19.0
+go: downloading github.com/spf13/pflag v1.0.5
+go: downloading github.com/gorilla/handlers v1.5.2
+go: downloading github.com/gorilla/mux v1.8.1
+go: downloading github.com/go-kit/log v0.2.1
+go: downloading github.com/go-logfmt/logfmt v0.6.0
+go: downloading github.com/improbable-eng/grpc-web v0.15.0
+go: downloading github.com/cosmos/gogogateway v1.2.0
+go: downloading github.com/golang/protobuf v1.5.4
+go: downloading github.com/hashicorp/golang-lru v1.0.2
+go: downloading github.com/cosmos/go-bip39 v1.0.0
+go: downloading pgregory.net/rapid v1.1.0
+go: downloading github.com/99designs/keyring v1.2.1
+go: downloading github.com/hashicorp/go-metrics v0.5.1
+go: downloading golang.org/x/sync v0.10.0
+go: downloading github.com/cockroachdb/pebble v1.1.1
+go: downloading github.com/google/btree v1.1.3
+go: downloading github.com/linxGnu/grocksdb v1.8.14
+go: downloading github.com/syndtr/goleveldb v1.0.1-0.20220721030215-126854af5e6d
+go: downloading github.com/inconshreveable/mousetrap v1.1.0
+go: downloading golang.org/x/net v0.34.0
+go: downloading github.com/mattn/go-colorable v0.1.13
+go: downloading github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
+go: downloading github.com/google/gofuzz v1.2.0
+go: downloading github.com/iancoleman/strcase v0.3.0
+go: downloading google.golang.org/genproto/googleapis/rpc v0.0.0-20241202173237-19429a94021a
+go: downloading github.com/hdevalence/ed25519consensus v0.1.0
+go: downloading google.golang.org/genproto/googleapis/api v0.0.0-20231012201019-e917dd12ba7a
+go: downloading google.golang.org/genproto v0.0.0-20231016165738-49dd2c1f3d0b
+go: downloading github.com/cosmos/iavl v1.0.0
+go: downloading github.com/oasisprotocol/curve25519-voi v0.0.0-20230904125328-1f23a7beb09a
+go: downloading github.com/decred/dcrd/dcrec/secp256k1/v4 v4.3.0
+go: downloading golang.org/x/crypto v0.32.0
+go: downloading github.com/btcsuite/btcd/btcutil v1.1.6
+go: downloading github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2
+go: downloading github.com/sasha-s/go-deadlock v0.3.5
+go: downloading github.com/hashicorp/go-hclog v1.5.0
+go: downloading github.com/hashicorp/go-plugin v1.5.2
+go: downloading github.com/prometheus/client_golang v1.20.5
+go: downloading github.com/prometheus/common v0.62.0
+go: downloading github.com/huandu/skiplist v1.2.0
+go: downloading github.com/cockroachdb/logtags v0.0.0-20230118201751-21c54148d20b
+go: downloading github.com/cockroachdb/redact v1.1.5
+go: downloading github.com/getsentry/sentry-go v0.27.0
+go: downloading github.com/cosmos/btcutil v1.0.5
+go: downloading github.com/magiconair/properties v1.8.7
+go: downloading github.com/go-kit/kit v0.13.0
+go: downloading github.com/fortytw2/leaktest v1.3.0
+go: downloading github.com/gorilla/websocket v1.5.3
+go: downloading github.com/cometbft/cometbft-db v0.14.1
+go: downloading github.com/felixge/httpsnoop v1.0.4
+go: downloading github.com/gogo/googleapis v1.4.1
+go: downloading github.com/bgentry/speakeasy v0.1.1-0.20220910012023-760eaf8b6816
+go: downloading github.com/mattn/go-isatty v0.0.20
+go: downloading github.com/cosmos/ledger-cosmos-go v0.13.3
+go: downloading github.com/lib/pq v1.10.9
+go: downloading github.com/rs/cors v1.11.1
+go: downloading github.com/cenkalti/backoff/v4 v4.1.3
+go: downloading github.com/desertbit/timer v0.0.0-20180107155436-c41aec40b27f
+go: downloading nhooyr.io/websocket v1.8.6
+go: downloading github.com/fsnotify/fsnotify v1.7.0
+go: downloading github.com/mitchellh/mapstructure v1.5.0
+go: downloading github.com/sagikazarmark/locafero v0.4.0
+go: downloading github.com/sagikazarmark/slog-shim v0.1.0
+go: downloading github.com/spf13/afero v1.11.0
+go: downloading github.com/hashicorp/go-immutable-radix v1.3.1
+go: downloading github.com/cenkalti/backoff v2.2.1+incompatible
+go: downloading github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4
+go: downloading github.com/danieljoos/wincred v1.1.2
+go: downloading github.com/dvsekhvalnov/jose2go v1.5.0
+go: downloading github.com/godbus/dbus v0.0.0-20190726142602-4481cbc300e2
+go: downloading github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c
+go: downloading github.com/mtibben/percent v0.2.1
+go: downloading golang.org/x/sys v0.29.0
+go: downloading golang.org/x/term v0.13.0
+go: downloading gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405
+go: downloading filippo.io/edwards25519 v1.0.0
+go: downloading github.com/emicklei/dot v1.6.0
+go: downloading gopkg.in/yaml.v3 v3.0.1
+go: downloading github.com/cockroachdb/fifo v0.0.0-20240606204812-0bbfbd93a7ce
+go: downloading github.com/cockroachdb/tokenbucket v0.0.0-20230807174530-cc333fc44b06
+go: downloading github.com/kr/pretty v0.3.1
+go: downloading github.com/prometheus/client_model v0.6.1
+go: downloading github.com/petermattis/goid v0.0.0-20240813172612-4fcff4a6cae7
+go: downloading github.com/fatih/color v1.15.0
+go: downloading github.com/gogo/protobuf v1.3.2
+go: downloading github.com/hashicorp/yamux v0.1.1
+go: downloading github.com/mitchellh/go-testing-interface v1.14.1
+go: downloading github.com/oklog/run v1.1.0
+go: downloading github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822
+go: downloading github.com/beorn7/perks v1.0.1
+go: downloading github.com/cespare/xxhash/v2 v2.3.0
+go: downloading github.com/prometheus/procfs v0.15.1
+go: downloading github.com/stretchr/objx v0.5.2
+go: downloading github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475
+go: downloading github.com/klauspost/compress v1.17.9
+go: downloading github.com/google/orderedcode v0.0.1
+go: downloading github.com/cespare/xxhash v1.1.0
+go: downloading github.com/adlio/schema v1.3.6
+go: downloading github.com/ory/dockertest v3.3.5+incompatible
+go: downloading github.com/hashicorp/golang-lru/v2 v2.0.7
+go: downloading github.com/minio/highwayhash v1.0.3
+go: downloading github.com/dgraph-io/badger/v4 v4.2.0
+go: downloading github.com/jmhodges/levigo v1.0.0
+go: downloading go.etcd.io/bbolt v1.4.0-alpha.0.0.20240404170359-43604f3112c5
+go: downloading github.com/subosito/gotenv v1.6.0
+go: downloading github.com/hashicorp/hcl v1.0.0
+go: downloading gopkg.in/ini.v1 v1.67.0
+go: downloading github.com/pelletier/go-toml/v2 v2.2.2
+go: downloading github.com/zondax/ledger-go v0.14.3
+go: downloading github.com/btcsuite/btcd/btcec/v2 v2.3.2
+go: downloading github.com/sourcegraph/conc v0.3.0
+go: downloading golang.org/x/text v0.21.0
+go: downloading github.com/golang/snappy v0.0.4
+go: downloading github.com/tidwall/btree v1.7.0
+go: downloading github.com/DataDog/zstd v1.5.5
+go: downloading github.com/kr/text v0.2.0
+go: downloading github.com/rogpeppe/go-internal v1.12.0
+go: downloading github.com/Microsoft/go-winio v0.6.1
+go: downloading github.com/docker/go-units v0.5.0
+go: downloading github.com/dgraph-io/ristretto v0.1.1
+go: downloading github.com/dustin/go-humanize v1.0.1
+go: downloading go.opencensus.io v0.24.0
+go: downloading github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5
+go: downloading github.com/sirupsen/logrus v1.9.3
+go: downloading github.com/opencontainers/runc v1.1.12
+go: downloading github.com/zondax/hid v0.9.2
+go: downloading github.com/opencontainers/image-spec v1.1.0-rc2
+go: downloading github.com/google/flatbuffers v1.12.1
+go: downloading golang.org/x/tools v0.23.0
+go: downloading go.uber.org/multierr v1.11.0
+go: downloading github.com/docker/go-connections v0.4.0
+go: downloading github.com/containerd/continuity v0.3.0
+go: downloading github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161
+go: downloading github.com/golang/glog v1.2.3
+go: downloading github.com/dgryski/go-farm v0.0.0-20200201041132-a6ae2369ad13
+go: downloading github.com/opencontainers/go-digest v1.0.0
+go: downloading github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+go: downloading golang.org/x/mod v0.19.0
+go: downloading gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
+go: downloading github.com/frankban/quicktest v1.14.6
+go: downloading github.com/onsi/gomega v1.26.0
+go: downloading github.com/onsi/ginkgo v1.16.5
+go: downloading google.golang.org/genproto v0.0.0-20240213162025-012b6fc9bca9
+go: downloading google.golang.org/genproto/googleapis/api v0.0.0-20241202173237-19429a94021a
+go: downloading github.com/cockroachdb/datadriven v1.0.3-0.20230413201302-be42291fc80f
+go: downloading github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f
+go: downloading github.com/pascaldekloe/goe v0.1.0
+go: downloading golang.org/x/term v0.28.0
+go: downloading github.com/decred/dcrd/crypto/blake256 v1.0.1
+go: downloading github.com/jhump/protoreflect v1.15.3
+go: downloading github.com/huandu/go-assert v1.1.5
+go: downloading github.com/go-errors/errors v1.4.2
+go: downloading github.com/pingcap/errors v0.11.4
+go: downloading github.com/gin-gonic/gin v1.8.1
+go: downloading github.com/gobwas/ws v1.0.2
+go: downloading github.com/hashicorp/go-uuid v1.0.1
+go: downloading go.opentelemetry.io/otel v1.32.0
+go: downloading go.opentelemetry.io/otel/sdk/metric v1.32.0
+go: downloading github.com/VividCortex/gohistogram v1.0.0
+go: downloading github.com/kylelemons/godebug v1.1.0
+go: downloading github.com/nxadm/tail v1.4.8
+go: downloading github.com/gin-contrib/sse v0.1.0
+go: downloading github.com/gobwas/pool v0.2.0
+go: downloading go.opentelemetry.io/otel/metric v1.32.0
+go: downloading github.com/gobwas/httphead v0.0.0-20180130184737-2c6c146eadee
+go: downloading go.opentelemetry.io/otel/sdk v1.32.0
+go: downloading go.opentelemetry.io/otel/trace v1.32.0
+go: downloading github.com/bufbuild/protocompile v0.6.0
+go: downloading github.com/go-playground/validator/v10 v10.11.1
+go: downloading github.com/ugorji/go/codec v1.2.7
+go: downloading gopkg.in/yaml.v2 v2.4.0
+go: downloading github.com/goccy/go-json v0.9.11
+go: downloading github.com/json-iterator/go v1.1.12
+go: downloading gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7
+go: downloading github.com/go-logr/logr v1.4.2
+go: downloading github.com/go-logr/stdr v1.2.2
+go: downloading github.com/google/uuid v1.6.0
+go: downloading github.com/go-playground/universal-translator v0.18.0
+go: downloading github.com/leodido/go-urn v1.2.1
+go: downloading github.com/ugorji/go v1.1.7
+go: downloading github.com/modern-go/reflect2 v1.0.2
+go: downloading github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+go: downloading github.com/go-playground/locales v0.14.0
+go: downloading cosmossdk.io/x/mint v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading cosmossdk.io/x/capability v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading cosmossdk.io/x/distribution v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading cosmossdk.io/x/feegrant v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading cosmossdk.io/x/authz v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading cosmossdk.io/x/evidence v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading cosmossdk.io/x/params v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading cosmossdk.io/x/slashing v0.0.0-20240226161413-5c2ab2ecd32b
+go: downloading cosmossdk.io/x/upgrade v0.0.0-20240226161413-5c2ab2ecd32b
+go: finding module for package github.com/cosmos/cosmos-sdk/x/auth/tx
+go: finding module for package github.com/cosmos/cosmos-sdk/x/auth/client/cli
+go: finding module for package github.com/cosmos/cosmos-sdk/x/bank
+go: finding module for package github.com/cosmos/cosmos-sdk/x/bank/types
+go: finding module for package cosmossdk.io/core/codec
+go: finding module for package cosmossdk.io/core/registry
+go: finding module for package github.com/cosmos/cosmos-sdk/x/mint
+go: finding module for package github.com/cosmos/cosmos-sdk/x/mint/types
+go: finding module for package github.com/cosmos/cosmos-sdk/x/bank/keeper
+go: downloading github.com/cosmos/cosmos-sdk v0.53.5
+go: downloading cosmossdk.io/core v1.0.0
+go: downloading github.com/cosmos/cosmos-sdk/x/bank v0.2.0-rc.1
+go: downloading github.com/cosmos/cosmos-sdk/x/mint v0.2.0-rc.1
+go: downloading cosmossdk.io v0.53.5
+go: downloading github.com/cosmos/cosmos-sdk/x/auth v0.0.0-20240903170904-8431dbd38a88
+go: toolchain upgrade needed to resolve github.com/cosmos/cosmos-sdk/x/bank
+go: github.com/cosmos/cosmos-sdk/x/bank@v0.2.0-rc.1 requires go >= 1.23.4 (running go 1.22.12; GOTOOLCHAIN=local)
+cmd/lenmarxd/main.go:7:2: missing go.sum entry for module providing package cosmossdk.io/log (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:8:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/baseapp (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:9:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/client (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:10:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/client/config (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:11:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/client/flags (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:12:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/client/keys (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:13:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/client/rpc (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:14:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/client/tx (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:15:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/codec (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:16:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/codec/types (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:17:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/server (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:18:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/server/config (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:19:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/server/types (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:20:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/types (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:21:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/types/tx/signing (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:22:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/x/auth/client/cli (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:23:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/x/auth/tx (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:24:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/x/bank (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:25:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/x/bank/types (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:26:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/x/genutil (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+cmd/lenmarxd/main.go:27:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/x/genutil/types (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+app/app.go:8:2: missing go.sum entry for module providing package cosmossdk.io/store/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:9:2: missing go.sum entry for module providing package cosmossdk.io/x/auth/ante (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:10:2: missing go.sum entry for module providing package cosmossdk.io/x/auth/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:11:2: missing go.sum entry for module providing package cosmossdk.io/x/auth/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:12:2: missing go.sum entry for module providing package cosmossdk.io/x/authz/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:13:2: missing go.sum entry for module providing package cosmossdk.io/x/authz/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:14:2: missing go.sum entry for module providing package cosmossdk.io/x/bank/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:15:2: missing go.sum entry for module providing package cosmossdk.io/x/bank/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:16:2: missing go.sum entry for module providing package cosmossdk.io/x/capability/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:17:2: missing go.sum entry for module providing package cosmossdk.io/x/capability/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:18:2: missing go.sum entry for module providing package cosmossdk.io/x/distribution/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:19:2: missing go.sum entry for module providing package cosmossdk.io/x/distribution/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:20:2: missing go.sum entry for module providing package cosmossdk.io/x/evidence/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:21:2: missing go.sum entry for module providing package cosmossdk.io/x/evidence/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:22:2: missing go.sum entry for module providing package cosmossdk.io/x/feegrant/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:23:2: missing go.sum entry for module providing package cosmossdk.io/x/feegrant/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:24:2: missing go.sum entry for module providing package cosmossdk.io/x/gov/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:25:2: missing go.sum entry for module providing package cosmossdk.io/x/gov/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:26:2: missing go.sum entry for module providing package cosmossdk.io/x/mint/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:27:2: missing go.sum entry for module providing package cosmossdk.io/x/mint/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:28:2: missing go.sum entry for module providing package cosmossdk.io/x/params/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:29:2: missing go.sum entry for module providing package cosmossdk.io/x/params/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:30:2: missing go.sum entry for module providing package cosmossdk.io/x/slashing/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:31:2: missing go.sum entry for module providing package cosmossdk.io/x/slashing/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:32:2: missing go.sum entry for module providing package cosmossdk.io/x/staking/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:33:2: missing go.sum entry for module providing package cosmossdk.io/x/staking/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:34:2: missing go.sum entry for module providing package cosmossdk.io/x/upgrade/keeper (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:35:2: missing go.sum entry for module providing package cosmossdk.io/x/upgrade/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:49:2: missing go.sum entry for module providing package github.com/cometbft/cometbft/abci/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:50:2: missing go.sum entry for module providing package github.com/cometbft/cometbft/libs/json (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:51:2: missing go.sum entry for module providing package github.com/cometbft/cometbft/libs/log (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:52:2: missing go.sum entry for module providing package github.com/cometbft/cometbft/types (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:53:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-db (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:41:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/runtime (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:42:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/server/api (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+app/app.go:46:2: missing go.sum entry for module providing package github.com/cosmos/cosmos-sdk/types/module (imported by github.com/lenmarx/lenmarx/app); to add:
+	go get github.com/lenmarx/lenmarx/app
+cmd/lenmarxd/main.go:28:2: missing go.sum entry for module providing package github.com/spf13/cobra (imported by github.com/lenmarx/lenmarx/cmd/lenmarxd); to add:
+	go get github.com/lenmarx/lenmarx/cmd/lenmarxd
+exit:1

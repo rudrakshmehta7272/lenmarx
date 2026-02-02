@@ -1,0 +1,52 @@
+# Binaries and builds
+/cmd/lenmarxd/lenmarxd
+*.exe
+*.exe~
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Build directories
+/dist
+/build
+/bin
+
+# Go coverage reports
+*.out
+*.test
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.code-workspace
+
+# Go modules cache
+vendor/
+go.sum
+
+# Node configuration (runtime generated)
+.lenmarx/
+$HOME/.lenmarx/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*.pid
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# Test artifacts
+test-artifacts/
+test-output/
+
+# Docker
+docker-compose.override.yml
+.dockerignore
